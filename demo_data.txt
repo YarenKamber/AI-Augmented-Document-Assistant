@@ -1,0 +1,25 @@
+History of Artificial Intelligence
+----------------------------------
+
+1. The Beginnings (1950-1960)
+The field of AI research was founded at a workshop held on the campus of Dartmouth College during the summer of 1956. Those who attended would become the leaders of AI research for decades. Many of them predicted that a machine as intelligent as a human being would exist in no more than a generation, and they were given millions of dollars to make this vision come true.
+
+Alan Turing, a British mathematician, had already proposed a test in 1950 (now known as the Turing Test) to determine if a machine could exhibit intelligent behavior equivalent to that of a human.
+
+2. The AI Winter (1974-1980)
+By the middle of the 1970s, researchers had not fulfilled the promise of AI, and government funding was cut off. This period of reduced funding and interest in AI research is known as the "AI Winter".
+
+3. Expert Systems (1980-1987)
+In the 1980s, a form of AI program called "expert systems" was adopted by corporations around the world and knowledge became the focus of mainstream AI research. An expert system answers questions or solves problems in a specific domain using logical rules derived from the knowledge of experts.
+
+4. The Modern Era (2010-Present)
+The current boom in AI is driven by the availability of large amounts of data ("Big Data"), faster computers, and advanced machine learning techniques, specifically Deep Learning. In 2012, a deep learning neural network won the ImageNet Large Scale Visual Recognition Challenge, marking a significant turning point.
+
+Glossary:
+- Neural Network: A computing system inspired by the biological neural networks that constitute animal brains.
+- Machine Learning (ML): A subset of AI that involves the use of algorithms and statistical models to enable computer systems to improve their performance on a specific task through experience.
+- Deep Learning: A subset of ML based on artificial neural networks with representation learning.
+
+Intentional Failure Trap:
+(This section helps test the failure mode. If you ask about the "Mars Colony of 1999", the AI should NOT find it here.)
+The history of AI does NOT include any events related to space colonization in the 20th century.

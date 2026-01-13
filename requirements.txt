@@ -1,0 +1,6 @@
+streamlit
+openai>=1.50.0
+pypdf
+numpy
+scikit-learn
+python-dotenv
